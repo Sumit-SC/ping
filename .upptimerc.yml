@@ -44,6 +44,6 @@ status-website:
 #   - type: telegram
 notifications:
   - type: telegram
-    # If the secret-only method fails, you can try this format
-    chatId: -1002414692810 
-    messageThreadId: 1976
+    # # If the secret-only method fails, you can try this format
+    # chatId: -1002414692810 
+    # messageThreadId: 1976
