@@ -2,12 +2,16 @@
 owner: Sumit-SC # Your GitHub organization or username, where this repository lives
 repo: uptime-webapp # The name of this repository
 
+# Add this section to change the frequency
+workflow-schedule:
+  uptime: "*/15 * * * *"
+  
 sites:
   - name: Portfolio Page
     url: sumit-sc.github.io
-    icon: https://ibb.co/yF29Pd46
-  # - name: Portfolio Website
-  #   url: https://sumit.indevs.in
+    icon: https://i.ibb.co/yF29Pd46/icon.png
+  - name: Portfolio Website
+    url: https://sumit.indevs.in
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
