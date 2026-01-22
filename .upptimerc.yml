@@ -19,7 +19,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Sumit's Service Status
   introTitle: "**Service Status** for my web applications, powered by Upptime and a status page, powered entirely by GitHub."
-  introMessage: This page monitors the uptime and response time of my portfolio and core services.  navbar:
+  introMessage: This page monitors the uptime and response time of my portfolio and core services.  
+  navbar:
     - title: Status
       href: /
     - title: GitHub
@@ -30,3 +31,7 @@ status-website:
 # Advanced monitoring frequency (optional)
 # commitMessages:
 # readmeTick: ":green_heart: Update uptime [skip ci]"
+
+# Add this at the bottom
+notifications:
+  - type: telegram
