@@ -4,6 +4,8 @@ repo: uptime-webapp # The name of this repository
 
 sites:
   - name: Portfolio Page
+    url: sumit-sc.github.io
+  - name: Portfolio Website
     url: https://sumit.indevs.in
   - name: Google
     url: https://www.google.com
