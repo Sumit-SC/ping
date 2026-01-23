@@ -35,7 +35,7 @@ status-website:
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
     - title: Upp-time 
-      sub: Build your own website tracker
+      # sub: Build your own website tracker
       href: https://upptime.js.org/
 
 # Upptime also supports notifications, assigning issues, and more
