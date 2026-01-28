@@ -4,9 +4,9 @@
     "url": "https://sumit-sc.github.io",
     "icon": "https://i.ibb.co/yF29Pd46/icon.png",
     "slug": "portfolio-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
@@ -16,6 +16,7 @@
     "timeMonth": 436,
     "timeYear": 436,
     "dailyMinutesDown": {
+      "2026-01-28": 0,
       "2026-01-22": 30
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://www.sumit.indevs.in",
     "icon": "https://i.ibb.co/yF29Pd46/icon.png",
     "slug": "portfolio-website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.46%",
@@ -36,6 +37,7 @@
     "timeMonth": 383,
     "timeYear": 383,
     "dailyMinutesDown": {
+      "2026-01-28": 0,
       "2026-01-22": 221
     }
   },
@@ -50,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 105,
-    "timeDay": 109,
-    "timeWeek": 105,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "time": 104,
+    "timeDay": 106,
+    "timeWeek": 104,
+    "timeMonth": 104,
+    "timeYear": 104,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 129,
-    "timeWeek": 143,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "time": 142,
+    "timeDay": 127,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   }
 ]
