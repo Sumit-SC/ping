@@ -12,6 +12,7 @@ sites:
     icon: https://i.ibb.co/yF29Pd46/icon.png
   - name: Portfolio Website
     url: https://sumit.indevs.in
+    icon: https://i.ibb.co/yF29Pd46/icon.png
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -32,9 +33,9 @@ status-website:
   introMessage: This page monitors the uptime and response time of my portfolio and core services.  
   navbar:
     - title: Portfolio Website
-      href: /
+      href: https://sumit.indevs.in
     - title: Server Stats
-      href: http://telemetry.indevs.in
+      href: https://telemetry.indevs.in
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
     - title: Upp-time 
