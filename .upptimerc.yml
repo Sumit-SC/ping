@@ -17,6 +17,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: Shopping
+    url: Shopping.com
 
 status-website:
   # 1. Your custom domain
