@@ -20,10 +20,10 @@ sites:
 
 status-website:
   # 1. Your custom domain
-  cname: sumit.indevs.in
+  cname: status.sumit.indevs.in
   
   # 2. MUST be / when using a custom domain
-  baseUrl: /ping
+  baseUrl: 
   
   # 3. Logo and naming
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
