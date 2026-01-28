@@ -1,6 +1,6 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Sumit S. Chaure](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Sumit S. Chaure](https://github.com/Sumit-SC), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Sumit-SC/uptime-webapp/workflows/Uptime%20CI/badge.svg)](https://github.com/Sumit-SC/uptime-webapp/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Sumit-SC/uptime-webapp/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Sumit-SC/uptime-webapp/actions?query=workflow%3A%22Response+Time+CI%22)
