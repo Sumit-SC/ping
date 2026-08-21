@@ -80,5 +80,9 @@
     "incidents": 3,
     "last_down": 1781169521,
     "mttr": 856
+  },
+  "google": {
+    "incidents": 1,
+    "last_down": 1787332804
   }
 }
